@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @vinci128
-- 👀 I’m interested in theoretical physics, machine learning and digital rights. You will find here mostly code i have used during my phd for lattice simulations in  c++ and statistical analysis in Python
-- 🌱 I’m currently learning private machine learning. I would like to approach tensorflow and pytorch more extensively, and to be proficient with newer techniques.
-- 💞️ I’m looking to collaborate on private artificial intelligence projects.
-- 📫 You can contact me by mail at vinci128@protonmail.com.
+# Vincenzo Afferrante
 
-<!---
-vinci128/vinci128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data scientist with a Ph.D. in theoretical physics, based in Rome. At Refurbed I build demand
+forecasting and Bayesian marketing measurement; that code is private.
+
+Public projects:
+
+- [nfl_predict](https://github.com/vinci128/nfl_predict): CatBoost fantasy-football forecasts with
+  p10/p50/p90 projections and a FastAPI draft board
+- [magic-builder](https://github.com/vinci128/magic-builder): a Magic: The Gathering deck builder
+  with an MCP server so Claude can call its tools
+- PhD code: lattice Monte Carlo in C++ ([MC_SU2_adjoint](https://github.com/vinci128/MC_SU2_adjoint))
+  and Python analysis ([Analyzer](https://github.com/vinci128/Analyzer))
+
+vinci128@protonmail.com · [LinkedIn](https://www.linkedin.com/in/vinci128/)
